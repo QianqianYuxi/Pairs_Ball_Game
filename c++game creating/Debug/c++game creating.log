@@ -1,0 +1,9 @@
+﻿  c++game creating.cpp
+D:\大学课程教材\大一大二课设文件\c++课程设计\源码及文件\c++game creating\c++game creating\c++game creating.cpp(57,9): warning C4551: 缺少参数列表的函数调用
+D:\大学课程教材\大一大二课设文件\c++课程设计\源码及文件\c++game creating\c++game creating\c++game creating.cpp(70,9): warning C4551: 缺少参数列表的函数调用
+D:\大学课程教材\大一大二课设文件\c++课程设计\源码及文件\c++game creating\c++game creating\c++game creating.cpp(518,15): warning C4477: “fprintf”: 格式字符串“%7s”需要类型“char *”的参数，但可变参数 1 拥有了类型“wchar_t *”
+D:\大学课程教材\大一大二课设文件\c++课程设计\源码及文件\c++game creating\c++game creating\c++game creating.cpp(518,15): message : 请考虑在格式字符串中使用“%ls”
+D:\大学课程教材\大一大二课设文件\c++课程设计\源码及文件\c++game creating\c++game creating\c++game creating.cpp(518,15): message : 请考虑在格式字符串中使用“%lls”
+D:\大学课程教材\大一大二课设文件\c++课程设计\源码及文件\c++game creating\c++game creating\c++game creating.cpp(518,15): message : 请考虑在格式字符串中使用“%Ls”
+D:\大学课程教材\大一大二课设文件\c++课程设计\源码及文件\c++game creating\c++game creating\c++game creating.cpp(518,15): message : 请考虑在格式字符串中使用“%ws”
+  c++game creating.vcxproj -> D:\大学课程教材\大一大二课设文件\c++课程设计\源码及文件\c++game creating\Debug\c++game creating.exe
